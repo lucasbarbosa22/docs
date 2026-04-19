@@ -6,7 +6,7 @@
   "colors": {
     "primary": "#1183cd",
     "light": "#f1f1ef",
-    "dark": "#005adb"
+    "dark": "#081944"
   },
   "favicon": "/favicon.svg",
   "navigation": {
@@ -45,7 +45,10 @@
     "family": "Lato"
   },
   "background": {
-    "decoration": "windows",
-    "image": "/images/1774205803786.png"
-  }
+    "decoration": "gradient",
+    "color": {
+      "light": "#0c7945"
+    }
+  },
+  "logo": "/images/logo.png"
 }
