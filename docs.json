@@ -20,16 +20,14 @@
         "pages": [
           "index"
         ]
+      },
+      {
+        "tab": "Untitled Tab"
       }
     ]
   },
   "navbar": {
-    "links": [
-      {
-        "label": "Suporte",
-        "href": "https://discord.gg/4QzhKEuQus"
-      }
-    ],
+    "links": [],
     "primary": {
       "type": "button",
       "label": "Site Oficial",
