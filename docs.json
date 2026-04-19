@@ -11,12 +11,17 @@
   "logo": "/imagens/logo.png",
   "favicon": "/imagens/222.png",
   "navigation": {
-    "tabs": [
+    "versions": [
       {
-        "tab": "Documentação",
-        "icon": "book-open",
-        "pages": [
-          "index"
+        "version": "20",
+        "tabs": [
+          {
+            "tab": "Documentação",
+            "icon": "book-open",
+            "pages": [
+              "index"
+            ]
+          }
         ]
       }
     ]
