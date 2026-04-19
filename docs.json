@@ -2,10 +2,10 @@
   "$schema": "https://mintlify.com/docs.json",
   "theme": "mint",
   "name": "Bot Solutions",
-  "description": "Documentação oficial da Bot Solutions. Encontre informações sobre bots gratuitos para Discord, segurança, suporte, configuração e recursos da plataforma.",
+  "description": "Central oficial de documentação da Bot Solutions com guias, suporte, segurança e informações completas sobre nossos bots para Discord.",
   "colors": {
-    "primary": "#16a34a",
-    "light": "#f5f5f5",
+    "primary": "#22c55e",
+    "light": "#f8fafc",
     "dark": "#000000"
   },
   "logo": "/images/logo.png",
@@ -13,8 +13,8 @@
   "navigation": {
     "tabs": [
       {
-        "tab": "Guia Bots Free",
-        "icon": "bot",
+        "tab": "Documentação",
+        "icon": "book-open",
         "pages": [
           "index"
         ]
@@ -24,7 +24,7 @@
   "navbar": {
     "links": [
       {
-        "label": "Suporte",
+        "label": "Discord",
         "href": "https://discord.gg/4QzhKEuQus"
       }
     ],
@@ -35,7 +35,7 @@
     }
   },
   "banner": {
-    "content": "🚀 Conheça nossos bots gratuitos e entre em nosso servidor para receber suporte e novidades.",
+    "content": "🚀 Conheça nossos bots gratuitos e entre no nosso servidor para suporte.",
     "dismissible": false
   },
   "footer": {
@@ -51,9 +51,9 @@
     "family": "Inter"
   },
   "background": {
-    "decoration": "none",
+    "decoration": "gradient",
     "color": {
-      "light": "#ffffff",
+      "light": "#f8fafc",
       "dark": "#000000"
     }
   },
