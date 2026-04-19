@@ -2,17 +2,19 @@
   "$schema": "https://mintlify.com/docs.json",
   "theme": "mint",
   "name": "Bot Solutions",
-  "description": "Somos uma plataforma focada em oferecer bots gratuitos e de qualidade para servidores Discord, ajudando comunidades a crescer, engajar membros e automatizar processos.",
+  "description": "Documentação oficial da Bot Solutions. Encontre informações sobre bots gratuitos para Discord, segurança, suporte, configuração e recursos da plataforma.",
   "colors": {
-    "primary": "#0b9f2e",
-    "light": "#f1f1ef",
+    "primary": "#16a34a",
+    "light": "#f5f5f5",
     "dark": "#000000"
   },
+  "logo": "/images/logo.png",
+  "favicon": "/images/222.png",
   "navigation": {
     "tabs": [
       {
         "tab": "Guia Bots Free",
-        "icon": "ballot-check",
+        "icon": "bot",
         "pages": [
           "index"
         ]
@@ -20,7 +22,12 @@
     ]
   },
   "navbar": {
-    "links": [],
+    "links": [
+      {
+        "label": "Suporte",
+        "href": "https://discord.gg/4QzhKEuQus"
+      }
+    ],
     "primary": {
       "type": "button",
       "label": "Site Oficial",
@@ -28,7 +35,7 @@
     }
   },
   "banner": {
-    "content": "🚀 Conheça nossos bots gratuitos e entre no nosso servidor para suporte.",
+    "content": "🚀 Conheça nossos bots gratuitos e entre em nosso servidor para receber suporte e novidades.",
     "dismissible": false
   },
   "footer": {
@@ -44,15 +51,13 @@
     "family": "Inter"
   },
   "background": {
-    "decoration": "gradient",
+    "decoration": "none",
     "color": {
-      "light": "#0c7945",
-      "dark": "#260eb3"
+      "light": "#ffffff",
+      "dark": "#000000"
     }
   },
-  "logo": "/images/logo.png",
   "seo": {
     "indexing": "all"
-  },
-  "favicon": "/images/222.png"
+  }
 }
