@@ -1,6 +1,6 @@
 {
   "$schema": "https://mintlify.com/docs.json",
-  "theme": "luma",
+  "theme": "palm",
   "name": "Bot Solutions",
   "description": "Somos uma plataforma focada em oferecer bots gratuitos e de qualidade para servidores Discord, ajudando comunidades a crescer, engajar membros e automatizar processos.",
   "colors": {
