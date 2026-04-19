@@ -8,8 +8,8 @@
     "light": "#f8fafc",
     "dark": "#000000"
   },
-  "logo": "/images/logo.png",
-  "favicon": "/images/222.png",
+  "logo": "/imagens/logo.png",
+  "favicon": "/imagens/222.png",
   "navigation": {
     "tabs": [
       {
@@ -44,18 +44,18 @@
       "website": "https://www.botsolutions.shop/"
     }
   },
-  "styling": {
-    "codeblocks": "dark"
-  },
   "fonts": {
     "family": "Inter"
   },
   "background": {
-    "decoration": "gradient",
+    "decoration": "grid",
     "color": {
-      "light": "#f8fafc",
+      "light": "#ffffff",
       "dark": "#000000"
     }
+  },
+  "styling": {
+    "codeblocks": "dark"
   },
   "seo": {
     "indexing": "all"
