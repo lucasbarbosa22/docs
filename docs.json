@@ -5,18 +5,15 @@
   "description": "Somos uma plataforma focada em oferecer bots gratuitos e de qualidade para servidores Discord, ajudando comunidades a crescer, engajar membros e automatizar processos.",
   "colors": {
     "primary": "#1183cd",
-    "light": "#060605",
+    "light": "#f1f1ef",
     "dark": "#060806"
   },
   "favicon": "/favicon.svg",
-  "logo": {
-    "light": "/logo/light.svg",
-    "dark": "/logo/dark.svg"
-  },
   "navigation": {
     "tabs": [
       {
         "tab": "Guia Bots Free",
+        "icon": "ballot-check",
         "pages": [
           "index"
         ]
@@ -33,7 +30,7 @@
   },
   "banner": {
     "content": "🚀 Conheça nossos bots gratuitos e entre no nosso servidor para suporte.",
-    "dismissible": false
+    "dismissible": true
   },
   "footer": {
     "socials": {
@@ -43,5 +40,8 @@
   },
   "styling": {
     "codeblocks": "dark"
+  },
+  "fonts": {
+    "family": "Lato"
   }
 }
