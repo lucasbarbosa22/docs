@@ -6,7 +6,7 @@
   "colors": {
     "primary": "#1183cd",
     "light": "#f1f1ef",
-    "dark": "#081944"
+    "dark": "#1948be"
   },
   "favicon": "/favicon.svg",
   "navigation": {
@@ -30,7 +30,7 @@
   },
   "banner": {
     "content": "🚀 Conheça nossos bots gratuitos e entre no nosso servidor para suporte.",
-    "dismissible": true
+    "dismissible": false
   },
   "footer": {
     "socials": {
@@ -47,8 +47,12 @@
   "background": {
     "decoration": "gradient",
     "color": {
-      "light": "#0c7945"
+      "light": "#0c7945",
+      "dark": "#260eb3"
     }
   },
-  "logo": "/images/logo.png"
+  "logo": "/images/logo.png",
+  "seo": {
+    "indexing": "all"
+  }
 }
