@@ -2,14 +2,16 @@
   "$schema": "https://mintlify.com/docs.json",
   "theme": "mint",
   "name": "Bot Solutions",
+  "description": "Somos uma plataforma focada em oferecer bots gratuitos e de qualidade para servidores Discord, ajudando comunidades a crescer, engajar membros e automatizar processos.",
   "colors": {
     "primary": "#1183cd",
     "light": "#07C983",
     "dark": "#060806"
   },
-  "favicon": {
-    "light": "/favicon.svg",
-    "dark": "/favicon.svg"
+  "favicon": "/favicon.svg",
+  "logo": {
+    "light": "/logo/light.svg",
+    "dark": "/logo/dark.svg"
   },
   "navigation": {
     "tabs": [
@@ -21,37 +23,21 @@
       }
     ]
   },
-  "logo": {
-    "light": "/logo/light.svg",
-    "dark": "/logo/dark.svg"
-  },
   "navbar": {
     "links": [
       {
-        "label": "Support",
+        "label": "Suporte",
         "href": "https://discord.gg/4QzhKEuQus"
       }
     ],
     "primary": {
       "type": "button",
-      "label": "Dashboard",
-      "href": "https://dashboard.mintlify.com"
+      "label": "Site Oficial",
+      "href": "https://www.botsolutions.shop/"
     }
   },
-  "contextual": {
-    "options": [
-      "copy",
-      "view",
-      "chatgpt",
-      "claude",
-      "perplexity",
-      "mcp",
-      "cursor",
-      "vscode"
-    ]
-  },
-  "description": "Somos uma plataforma focada em oferecer bots gratuitos e de qualidade para servidores Discord, ajudando comunidades a crescer, engajar membros e automatizar processos.",
   "banner": {
+    "content": "🚀 Conheça nossos bots gratuitos e entre no nosso servidor para suporte.",
     "dismissible": false
   },
   "footer": {
@@ -59,10 +45,6 @@
       "discord": "https://discord.gg/4QzhKEuQus",
       "website": "https://www.botsolutions.shop/"
     }
-  },
-  "thumbnails": {
-    "appearance": "dark",
-    "background": "/images/AAAAA.png"
   },
   "styling": {
     "codeblocks": "dark"
